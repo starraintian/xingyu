@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "c"
+    },
+    "git.ignoreLimitWarning": true
+}
